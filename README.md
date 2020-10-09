@@ -1,6 +1,6 @@
 # Polpo Coding Challenge
 
-Gracias por su interés en formar parte del proceso de reclutamiento en Polpo Data Analytics & Software Development. Este coding challenge tiene como objetivo que el desarrollador pueda demostrar su capacidad de implementar un proyecto sencillo con Node.js utilizando el framework React.js y consumiendo un API sencillo.
+Gracias por su interés en formar parte del proceso de reclutamiento en Polpo Data Analytics & Software Development. Este coding challenge tiene como objetivo que el desarrollador pueda demostrar su capacidad de implementar un proyecto sencillo con Node.js utilizando el framework React.js y consumiendo un API.
 
 ## Objetivo
 
@@ -29,6 +29,8 @@ Al finalizar la implementación el desarrollador debe compartir su solución a t
 ## Notas
 
 En cuanto a diseño de interfaz, no existe una evaluación específica, sin embargo será tomado positivamente el diseño de una interfaz de usuario agradable y que ofrezca una experiencia sencilla de uso.
+
+Para la entrega de este coding challenge no existe un tiempo límite específico para entregar la solución al menos que el reclutador indiquelo contrario.
 
 ## Dudas o Consultas
 
