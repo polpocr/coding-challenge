@@ -6,9 +6,9 @@ Gracias por su interés en formar parte del proceso de reclutamiento en Polpo Da
 
 Para la prueba de código desarrollaremos una aplicación con base en el React Boilerplate disponible aquí: [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate).
 
-Esta aplicación se conectará a un API desde el cual se podrá consultar una base de datos de chistes asociados a Chuck Norris. El API está disponible en [https://api.chucknorris.io/](https://api.chucknorris.io/).
+Esta aplicación se conectará a un API desde el cual se podrá consultar una base de datos de chistes asociados a Chuck Norris. El API está disponible en [https://www.icndb.com/api/](https://www.icndb.com/api/).
 
-Usted deberá proveer de una interfaz que permita obtener un chiste de forma aleatoria, utilizando el endpoint aleatorio de el API provisto. Asi mismo esta aplicación deberá permitirle al usuario seleccionar alguna de las características provistas por el endpoint de categorías [https://api.chucknorris.io/jokes/categories](https://api.chucknorris.io/jokes/categories).
+Usted deberá proveer de una interfaz que permita obtener un chiste de forma aleatoria, utilizando el endpoint aleatorio de el API provisto. Asi mismo esta aplicación deberá permitirle al usuario seleccionar alguna de las características provistas por el endpoint de categorías [http://api.icndb.com/categories](http://api.icndb.com/categories).
 
 Al finalizar la implementación el desarrollador debe compartir su solución a través de un repositorio en GitHub.
 
