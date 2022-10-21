@@ -4,7 +4,7 @@ Gracias por su interés en formar parte del proceso de reclutamiento en Polpo Da
 
 ## Objetivo
 
-Para la prueba de código desarrollaremos una aplicación con base en el React Boilerplate disponible aquí: [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate).
+Para la prueba de código desarrollaremos una aplicación utilizando *React*.
 
 Esta aplicación se conectará a un API desde el cual se podrá consultar una base de datos de chistes asociados a Chuck Norris. El API está disponible en [https://www.icndb.com/api/](https://www.icndb.com/api/).
 
